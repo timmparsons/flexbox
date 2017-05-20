@@ -76,7 +76,7 @@ img {
 }
 .banner {
 	color: #fff;
-	background: #3acec2;
+	background: #4f7c8e;
 	padding: 3.2em 0;
 	margin-bottom: 48px;
 }
@@ -95,7 +95,7 @@ img {
 /* ---- Page Elements ---- */
 
 .logo {
-	width: 190px;
+	width: 100px;
 }
 .headline {
 	margin-bottom: 0;
@@ -109,6 +109,12 @@ img {
 	padding: .625em 1.25em;
 	background: #3acec2;
 	border-radius: .35em;
+}
+
+.button:hover {
+	background-color: #fff;
+	color: #3acec2;
+	border: solid 2px #3acec2;
 }
 
 /* ================================= 
